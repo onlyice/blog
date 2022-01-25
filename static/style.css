@@ -17,7 +17,7 @@ h6 {
 
 :root {
   /* Light mode 下使用更淡的字体颜色 */
-  --content: #555;
+  --content: #444;
   /* Light mode 下使用与主页一样的背景色 */
   --theme: rgb(245, 245, 245);
 }

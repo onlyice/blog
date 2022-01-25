@@ -7,3 +7,6 @@ theme: "PaperMod"
 params:
   customCSS:
   - style.css
+
+  # Params of PaperMod theme
+  ShowPostNavLinks: true

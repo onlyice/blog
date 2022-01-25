@@ -4,6 +4,8 @@ title: "Zhiheng's Blog"
 
 theme: "PaperMod"
 
+googleAnalytics: UA-77295418-1
+
 params:
   customCSS:
   - style.css

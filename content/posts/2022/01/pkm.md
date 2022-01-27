@@ -14,7 +14,7 @@ Obsidian 跟 TiddlyWiki 的定位很像，也是结构化的笔记软件（带�
 
 Obsidian 对比 TW 的优势，主要在于 **编辑体验**：
 
-* [Advanced Tables Toolbar](https://github.com/tgrosinger/advanced-tables-obsidian) 插件，写表格简直太爽了；TW 上未找到类似实现
+* [Advanced Tables Toolbar](https://github.com/tgrosinger/advanced-tables-obsidian) 插件，写表格简直太爽了
 * 按 <kbd>Cmd-E</kbd> 可以切换编辑态和预览态，还会记得你上次编辑的光标位置，非常实用
 * Paste URL into selection，这个功能非常实用，VSCode 的 Markdown 编辑器也有
 * 有方便的 command palette

@@ -15,18 +15,17 @@ Obsidian 跟 TiddlyWiki 的定位很像，也是结构化的笔记软件（带�
 Obsidian 对比 TW 的优势，主要在于 **编辑体验**：
 
 * [Advanced Tables Toolbar](https://github.com/tgrosinger/advanced-tables-obsidian) 插件，写表格简直太爽了；TW 上未找到类似实现
-* 按 <kbd>Cmd-E</kbd> 可以切换编辑态和预览态，还会记得你上次编辑的光标位置，非常实用；TW 上可以用 tw5-keyboard-navigation 插件来切换状态，但是还无法记住光标
-* Paste URL into selection，这个功能非常实用，VSCode 的 Markdown 编辑器也有；但是 TW 没有，需要选中文本，按 <kbd>Ctrl-L</kbd> 再插入链接，比较麻烦
-
-使用体验上，Obsidian 有全局搜索文件和命令的 command palette，TW 也有类似插件实现。Obsidian 的插件生态很丰富，比 TW 易用。
+* 按 <kbd>Cmd-E</kbd> 可以切换编辑态和预览态，还会记得你上次编辑的光标位置，非常实用
+* Paste URL into selection，这个功能非常实用，VSCode 的 Markdown 编辑器也有
+* 有方便的 command palette
 
 Obsidian 的不足在于：
 
-* **默认排版差**，糟糕的 typography 和配色；TW 默认的排版好得多
+* **默认排版差**，糟糕的 typography 和配色
 * **UX 差**，难用，缺乏逻辑。这点抄下 VSCode 多好
 * **仍不稳定**，我调整过某一主题的 CSS，但是在 Obsidian 升级版本后，一些 style 又被改变了
 * **Publish 服务收费**，而且很贵
-* **搜索功能缺乏想象力**，既然有了 file-level metadata（YAML front matter），为啥在搜索中不能按 metadata 搜？
+* **搜索功能缺乏想象力**，既然有了 file-level metadata（YAML front matter），为啥不能根据 metadata 做搜索？
 
 总而言之，如果把 Obsidian 作为结构化笔记软件使用的话，我觉得 TiddlyWiki 体验更佳。
 
@@ -38,7 +37,7 @@ Logseq 跟 TiddlyWiki 并不是一类笔记软件。Logseq 底层用的是图数
 
 ![Logseq Bad Typography](/image/2022/01/logseq-bad-typography.png)
 
-另外我并不是很需要、或者 TW 也有 Logseq 的这些核心能力：
+另外我并不是很需要这些核心能力：
 
 * **block 级别的 reference 及 embed**：block 的确比 page 更细，但是 page 往往已经满足需求了
 * **双向链接、page graph**：我不觉得有啥用。下面详谈

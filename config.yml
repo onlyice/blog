@@ -12,3 +12,8 @@ params:
 
   # Params of PaperMod theme
   ShowPostNavLinks: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

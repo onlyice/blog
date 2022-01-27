@@ -1,3 +1,4 @@
 resources/
 *.lock
 public/
+.DS_Store

@@ -55,4 +55,4 @@ Logseq 跟 TiddlyWiki 并不是一类笔记软件。Logseq 底层用的是图数
 
 我并不是觉得链接不好。但是双向链接中比较新颖的部分——反向链接（back link），实在没什么作用。如果我需要 back link 才能联想起这些知识点的关系，那一定是我并没有真的理解它们。
 
-至于 graph view，它除了是一块 fancy eye candy，还有其他的作用吗？真的会有什么奥妙藏在这个图中吗？
+至于 graph view，它除了是一块 fancy eye candy，还有其他的作用吗？

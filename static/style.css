@@ -58,3 +58,7 @@ kbd {
 .post-content ul, .post-content ol {
   margin-left: 1em;
 }
+
+.post-title {
+  font-size: 36px;
+}

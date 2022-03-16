@@ -60,5 +60,19 @@ kbd {
 }
 
 .post-title {
-  font-size: 36px;
+  font-size: 24px;
+}
+
+.post-content h1 {
+  margin: 32px auto 24px;
+  font-size: 32px;
+}
+
+.post-content h2 {
+  margin: 22px auto 18px;
+  font-size: 22px;
+}
+
+.post-content h3 {
+  font-size: 20px;
 }

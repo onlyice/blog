@@ -1,5 +1,5 @@
 ---
-title: "思考人生 Vol.1"
+title: "成为自己"
 date: 2022-05-26T22:15:45+08:00
 draft: false
 ---

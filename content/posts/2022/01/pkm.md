@@ -4,6 +4,8 @@ date: 2022-01-27T16:15:45+08:00
 draft: false
 ---
 
+**2022 年 9 月更新**：在本文编写后的半年多时间里，Obsidian 持续完善，新版本的易用性已经好了很多。社区的 [Minimal 主题](https://minimal.guide/) 极大地提升了美感和使用的愉悦感，且其作者会为 Obsidian 制作一个新的默认主题，也会极大提升观感。下面对于排版和用户体验的批评已经不再适用。
+
 我用的笔记软件是 [TiddlyWiki](https://tiddlywiki.com/)，已经用了 6 年多，写了 1500+ 条目；公开的部分放在 [这里](https://wiki.zhiheng.io/)。
 
 近几年 Obsidian 及 Logseq 大火，经常被人提及，于是我也尝试了下，但觉得他们都不够好。
@@ -22,7 +24,7 @@ Obsidian 对比 TW 的优势，主要在于 **编辑体验**：
 Obsidian 的不足在于：
 
 * **默认排版差**，糟糕的 typography 和配色
-* **UX 差**，难用，缺乏逻辑。这点抄下 VSCode 多好
+* **用户体验差**，难用，缺乏逻辑。这点抄下 VSCode 多好
 * **仍不稳定**，我调整过某一主题的 CSS，但是在 Obsidian 升级版本后，一些 style 又被改变了
 * **Publish 服务收费**，而且很贵
 * **搜索功能缺乏想象力**，既然有了 file-level metadata（YAML front matter），为啥不能根据 metadata 做搜索？

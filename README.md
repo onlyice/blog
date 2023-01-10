@@ -1,5 +1,10 @@
 # Zhiheng's Blog
 
+## Usage
+
+1. 增加一个 Markdown 文件
+2. `hugo server -D`
+
 ## Theme
 
 主题用了 [PaperMod][]。使用 submodule 方法引入的主题：

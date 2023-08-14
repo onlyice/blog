@@ -17,6 +17,7 @@ draft: false
 > 我所说的“幸福是一种选择”就是这个意思。如果你相信幸福如我所说是一种选择，那么你可以着手做出这个选择。
 >
 > 情绪看似是外力作用的结果，但其实并非如此。
+
 这让我有种感觉，越是处于困境之中，越是可以磨练自己保持平和心态的能力。
 
 英文中经常会用一个词“appreciate”，表示从外部事物中领略到乐趣。中文对应的词可能是“欣赏”，但却罕见人们经常把欣赏挂在嘴边。Derek Silvers 写了一篇 [文章](https://sive.rs/tk)，说为什么应该带小孩子出去旅游：
@@ -25,6 +26,6 @@ draft: false
 >
 > **Same with the other senses. Smelling dirt. Touching a caterpillar. Listening to birds.**
 >
-> Before him, I was often in a hurry, trying to get somewhere else. Babies help you stop and pay attention. When you travel, this is what you need. Less rushing to a destination. More stopping to appreciate everything inbetween.
+> Before him, I was often in a hurry, trying to get somewhere else. Babies help you stop and pay attention. When you travel, this is what you need. Less rushing to a destination. More stopping to appreciate everything in between.
 
 闻闻泥土的味道，多美妙啊。

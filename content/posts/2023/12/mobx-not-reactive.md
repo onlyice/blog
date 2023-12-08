@@ -10,7 +10,8 @@ draft: false
 
 比如有这么一个 `CheckboxList` 组件，它的功能是展示多个复选框，允许用户选中多个：
 
-![a not reactive checkbox list](/image/2023/12/checkbox-list.png)
+<img src="/image/2023/12/checkbox-list.png" width="200px">
+
 
 用这份代码实现：
 
@@ -97,14 +98,14 @@ export default function Test() {
 这真是个很挫的限制。一个 workaround 是，把 `CheckboxList` 接受的 `selectedData` 的类型改了：
 
 ```tsx
-# 原来
+// 原来
 selectedItems: string[];
 
-# 改成
+// 改成
 selectedItems: () => string[];
 ```
 
-调用处改成这样：
+调用处也改成函数传入：
 
 ```tsx
 <CheckboxList 

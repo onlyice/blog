@@ -71,3 +71,12 @@ kbd {
 .post-content h3 {
   font-size: 20px;
 }
+
+.post-content code {
+  margin: auto;
+  padding: 2px 4px;
+}
+
+:root {
+  --code-bg: rgb(232, 232, 232);
+}

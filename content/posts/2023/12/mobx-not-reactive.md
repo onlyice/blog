@@ -12,7 +12,6 @@ draft: false
 
 <img src="/image/2023/12/checkbox-list.png" width="200px">
 
-
 用这份代码实现：
 
 ```tsx

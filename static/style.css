@@ -36,10 +36,6 @@ h6 {
   opacity: 1;
 }
 
-.post-content img {
-  box-shadow: 0 5px 16px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
-}
-
 /* <kbd> 实现 */
 kbd {
   display: inline-block;

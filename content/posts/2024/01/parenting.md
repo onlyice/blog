@@ -6,7 +6,7 @@ draft: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PHpPtdk9rco?si=vuec4QqQILloaWqn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-这个 TED 演讲太棒了，我连续看了两次。Becky Kennedy 的感染力极强。她想说的「最重要的育儿技巧」是：善于修复与孩子的关系。她用了一个自己的事情来讲解：
+这个 TED 演讲太棒了，我连续看了两次。Becky Kennedy 的感染力极强。她认为的「最重要的育儿技巧」，是善于修复与孩子的关系。用一个发生在她自己身上的例子：
 
 > 某天傍晚 Becky 在做晚餐，做完时已经非常疲累。她的儿子走进厨房看到餐桌上的饭菜后，发了句牢骚「又是鸡肉！太讨厌了」。Becky 听了很火大，对她儿子吼道「你有病吗？能不能感谢下老妈的辛勤劳动？」儿子很难受，回了句「我讨厌你！」，然后跑回房间重重摔上门。
 > 

@@ -19,16 +19,17 @@ draft: false
 
 我尝试用 Anki 构建一个新的卡片类型，它的正面是这样的：
 
-![Anki Card Frontside](/image/2024/01/anki-card-frontside.jpg)
+<img src="/image/2024/01/anki-card-frontside.jpg" style="width: 500px; border: 1px solid #ccc">
 
 反面是这样的：
 
-![Anki Card Backside](/image/2024/01/anki-card-backside.jpg)
+<img src="/image/2024/01/anki-card-backside.jpg" style="width: 500px; border: 1px solid #ccc">
+
 
 录入的表单则是这样的：
 
-![New Anki Card](/image/2024/01/new-anki-card.jpg)
+<img src="/image/2024/01/new-anki-card.jpg" style="width: 500px; border: 1px solid #ccc">
 
 这样能把 Anki 变成一个导师。这个导师叫作「理想的自己」。它会每隔一段时间来提醒你：“你成为了想成为的人了吗？”
 
-如果你也想使用这种方法，可以安装 Anki，下载这个 [APKG 文件](/file/2024/inspiring.apkg)，在 Anki 的菜单 File => Import 中导入它。导入完成后，Anki 中会多出一个名为 Inspiring 的 Note Type，你可以用它来创建卡片。
+如果你也想使用这种方法，可以安装 Anki，下载这个 [APKG 文件](/file/2024/Inspiring.apkg)，在 Anki 的菜单 File => Import 中导入它。导入完成后，Anki 中会多出一个名为 Inspiring 的 Note Type，你可以用它来创建卡片。

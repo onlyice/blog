@@ -15,7 +15,7 @@ draft: false
 
 这些做法并不新鲜，我很早就看过，但是重新看到时还是觉得很认同。不过，仅仅认同足够吗？我仍然每天晚上刷手机入睡。Ken Blanchard 提到：“Learning is defined as a change in behavior. You haven’t learned a thing until you take action and use it.” 只有让你改变行为的，才能称之为学习。如果你没有采取行动来应用它，你就没学会它。
 
-为了将这些理念应用到生活中，我认为应该有足够多的重复（让这个 idea 浮现在你脑海）和检验（你有按这个做吗？）。这种方法与使用 [[Spaced Repetition|间隔重复]] 来记忆事情似乎并没有本质不同。于是我有了一个想法：也许可以用间隔重复来构建习惯。
+为了将这些理念应用到生活中，我认为应该有足够多的重复（让这个 idea 浮现在你脑海）和检验（你有按这个做吗？）。这种方法与使用 [间隔重复](https://twitter.com/onlyice0328/status/1743121646335226352) 来记忆事情似乎没有本质不同。于是我想：也许可以用间隔重复来构建习惯。
 
 我尝试用 Anki 构建一个新的卡片类型，它的正面是这样的：
 
@@ -24,7 +24,6 @@ draft: false
 反面是这样的：
 
 <img src="/image/2024/01/anki-card-backside.jpg" style="width: 500px; border: 1px solid #ccc">
-
 
 录入的表单则是这样的：
 
